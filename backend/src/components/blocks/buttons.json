@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_blocks_buttons",
+  "info": {
+    "displayName": "buttons",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "value"
+      ]
+    }
+  }
+}

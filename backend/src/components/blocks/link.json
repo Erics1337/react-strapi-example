@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_blocks_links",
+  "info": {
+    "displayName": "link",
+    "icon": "asterisk"
+  },
+  "options": {},
+  "attributes": {
+    "href": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    },
+    "target": {
+      "type": "enumeration",
+      "enum": [
+        "value"
+      ]
+    },
+    "isExternal": {
+      "type": "boolean"
+    }
+  }
+}
